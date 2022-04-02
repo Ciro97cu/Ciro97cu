@@ -10,6 +10,7 @@
   - <img src="https://user-images.githubusercontent.com/96072268/161374386-26ae9a12-7ae9-47e9-b19f-baa5986b079c.png" width="25" height="25"/> ~ **SASS**
 - ### 📫 How to reach me: 
   - ciro.lavoro97@gmail.com
+  - <a href="https://wa.me/393461596267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 - ### ⚡ Fun fact: 
   - I'm attending an advanced professional training course at Boolean.
   - I'm passionate about the aeronautical world 🛩️
@@ -19,4 +20,4 @@
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&layout=compact)](https://github.com/Ciro97cu/github-readme-stats)
 
-🦆 P.S. Copy and paste is a very powerful tool 💜  
+🦆 *p.s. Copy and paste is a very powerful tool* 💜
