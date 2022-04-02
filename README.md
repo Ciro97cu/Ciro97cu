@@ -12,7 +12,7 @@
   - ciro.lavoro97@gmail.com
 - ### ⚡ Fun fact: 
   - I'm attending an advanced professional training course at Boolean.
-  - I am passionate about the aeronautical world 🛩️
+  - I'm passionate about the aeronautical world 🛩️
 
 ## Views Counter
 ![](https://komarev.com/ghpvc/?username=Ciro97cu&color=blueviolet)
