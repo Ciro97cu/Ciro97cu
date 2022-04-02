@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Ciro
+
+![](https://komarev.com/ghpvc/?username=Ciro97cu&color=blueviolet)
 
 <!--
 **Ciro97cu/Ciro97cu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
