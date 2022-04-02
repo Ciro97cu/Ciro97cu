@@ -13,8 +13,10 @@
 - ### ⚡ Fun fact: 
   - I'm attending an advanced professional training course at Boolean.
   - I'm passionate about the aeronautical world 🛩️
-
-## Views Counter
+## Views & Hits Counter
 ![](https://komarev.com/ghpvc/?username=Ciro97cu&color=blueviolet)
-<hr/>
-🦆 P.S. Copy and paste is a very powerful tool 💜
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&layout=compact)](https://github.com/Ciro97cu/github-readme-stats)
+
+🦆 P.S. Copy and paste is a very powerful tool 💜  
