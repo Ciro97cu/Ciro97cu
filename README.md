@@ -8,7 +8,7 @@
   - <img src="https://user-images.githubusercontent.com/96072268/161374582-fd35a2c4-069a-4c52-966d-6dd1b87d1c98.png" width="25" height="25"/> ~ **VUE JS**
 - ### 📒 I’m currently learning:
   - <img src="https://user-images.githubusercontent.com/96072268/161374386-26ae9a12-7ae9-47e9-b19f-baa5986b079c.png" width="25" height="25"/> ~ **SASS**
-  - <img src="https://user-images.githubusercontent.com/96072268/161442896-2070e614-5078-481f-ab77-4c805de7a47b.png" width="25" height="25"/> ~ **NODE.JS**
+  - <img src="https://user-images.githubusercontent.com/96072268/161442896-2070e614-5078-481f-ab77-4c805de7a47b.png" width="28" height="28"/> ~ **NODE.JS**
 - ### 📫 How to reach me: 
   - ciro.lavoro97@gmail.com
   - <a href="https://wa.me/393461596267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
