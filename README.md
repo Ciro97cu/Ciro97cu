@@ -22,6 +22,6 @@
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&layout=compact)](https://github.com/Ciro97cu/github-readme-stats)
 
-🦆 *p.s. Copy and paste is a very powerful tool* 💜
+![snake gif](https://github.com/Ciro97cu/Ciro97cu/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Ciro97cu/Ciro97cu/blob/output/github-contribution-grid-snake.gif)
+🦆 *p.s. Copy and paste is a very powerful tool* 💜
