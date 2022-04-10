@@ -63,7 +63,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Ciro97cu&show_icons=true&theme=synthwave" style="max-width: 100%;">
     </a>
   <a target="_blank" href="https://github.com/Ciro97cu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&layout=compact&theme=synthwave" style="max-width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&theme=synthwave" style="max-width: 100%;">
     </a>
 </p>
 
