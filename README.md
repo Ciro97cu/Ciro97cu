@@ -1,4 +1,5 @@
-# Hi there, I'm Ciro 👋
+<img src="https://user-images.githubusercontent.com/96072268/162616025-0845db71-97d6-4557-98a3-1ed8ff39f5ad.png"/>
+
 ## About Me:
 - ### ✅ I learned to use:
   - <img src="https://user-images.githubusercontent.com/96072268/161374093-b80b0bc7-2be5-44bd-bf1e-ab3deb4e29cb.png" width="25" height="25"/> ~ **HTML**
@@ -22,3 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&layout=compact)](https://github.com/Ciro97cu/github-readme-stats)
 
 🦆 *p.s. Copy and paste is a very powerful tool* 💜
+
+![snake gif](https://github.com/Ciro97cu/Ciro97cu/blob/output/github-contribution-grid-snake.gif)
