@@ -39,6 +39,10 @@
    <a href="https://it.reactjs.org/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50" height="50"/>
   </a>
+    
+   <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" width="50" height="50"/>
+  </a>
   
 </p>   
 
