@@ -45,7 +45,7 @@
   </a>
     
    <a href="https://www.mysql.com/it/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" width="60" height="60"/>
   </a>
   
 </p>   
