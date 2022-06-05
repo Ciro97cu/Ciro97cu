@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/96072268/162616025-0845db71-97d6-4557-98a3-1ed8ff39f5ad.png"/>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ciro97cu&color=blueviolet"/>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCiro97cu%2Fhit-counter&count_bg=%238C37DB&title_bg=%23555555&icon=node-dot-js.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-</div>
+<h1 align="center">
+    <img src="https://i.pinimg.com/originals/04/8c/8e/048c8e251c1a6a1a9f8b35f68dcd8b52.gif"/>
+    <br><br>
+    <abc>
+        Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+        I'm Ciro <br><br>
+        <img src="https://komarev.com/ghpvc/?username=Ciro97cu&color=blueviolet"/>
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCiro97cu%2Fhit-counter&count_bg=%238C37DB&title_bg=%23555555&icon=node-dot-js.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+    </abc>
+</h1> 
 
 <h1 align="center">Technology Stacks 🚀🌕</h1>
 <p align="left">
