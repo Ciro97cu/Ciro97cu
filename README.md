@@ -74,14 +74,19 @@
 </p>
     
 <h1 align="center">My Github Stats ✨</h1>
-<p align="center" dir="auto">
-  <a target="_blank" href="https://github.com/Ciro97cu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ciro97cu&show_icons=true&theme=synthwave" style="max-width: 100%;">
-    </a>
-  <a target="_blank" href="https://github.com/Ciro97cu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&theme=synthwave" style="max-width: 100%;">
+<div align="center">
+<p>
+    <a href="https://github.com/Ciro97cu/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ciro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro97cu&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&border=9645F4&dates=DCDD4C&fire=DCDD4C&sideNums=DCDD4C5"/>
     </a>
 </p>
+ <br/>
+    <a href="https://github.com/Ciro97cu/github-readme-stats"><img alt="Ciro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ciro97cu&show_icons=true&count_private=true&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&border=9645F4&dates=DCDD4C&fire=DCDD4C&sideNums=DCDD4C5" /></a>
+    <br></br>
+    
+  <a href="https://github.com/Ciro97cu/github-readme-stats"><img alt="Ciro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&border=9645F4&dates=DCDD4C&fire=DCDD4C&sideNums=DCDD4C5" /></a>
+  <br/>
+</div>
 
 ![snake gif](https://github.com/Ciro97cu/Ciro97cu/blob/output/github-contribution-grid-snake.svg)
 
