@@ -28,6 +28,10 @@
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50" height="50"/>
   </a>
   
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="50" height="50"/>
+  </a>
+  
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="50" height="50"/>
   </a>
