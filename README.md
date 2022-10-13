@@ -61,7 +61,7 @@
   </a>
   
   <a href="https://redux-saga.js.org/" target="_blank">
-    <img src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" width="50" height="50"/>
+    <img src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" width="80" height="50"/>
   </a>
    
 </p>   
