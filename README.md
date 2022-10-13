@@ -60,6 +60,10 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50" height="50"/>
   </a>
   
+  <a href="https://redux-saga.js.org/" target="_blank">
+    <img src="https://redux-saga.js.org/img/Redux-Saga-Logo.png" width="50" height="50"/>
+  </a>
+   
 </p>   
 
 
