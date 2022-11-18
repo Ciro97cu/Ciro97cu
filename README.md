@@ -75,9 +75,6 @@
 
 <h1 align="center">Fun fact ⚡</h1>
 <p align="center">
-    I'm attending an advanced professional training course at Boolean.
-</p>
-<p align="center">
     I'm passionate about the aeronautical world 🛩️
 </p>
     
